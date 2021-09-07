@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mattxcnm
+- 👀 I’m interested in additive manufacturing process monitoring and in situ validation
+- 🌱 I’m currently learning machine learning
+- 💞️ I’m looking to collaborate on projects focused on the collection and processing of additive manufacturing data
+- 📫 How to reach me, through messages
